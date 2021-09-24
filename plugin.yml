@@ -1,0 +1,8 @@
+main: cz.hydradev.pluginbase.Main
+author: HydraDev
+version: 1.0
+name: ExamplePlugin
+
+commands:
+  examplecommand:
+    description: description
